@@ -34,7 +34,7 @@ Use open source tools and network intelligence to help organizations with attack
 ### Quick Install
 
 ```bash
-git clone https://github.com/ismailtasdelen/hackertarget.git
+git clone https://github.com/ismailtsdln/hackertarget.git
 cd hackertarget/
 pip install -e .
 ```
